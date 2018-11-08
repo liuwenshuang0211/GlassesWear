@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\androidstudio\GlassShiDai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="G:\androidstudio\GlassShiDai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.0_d3c4904dd2941ced43f79e8e5e9be50adba4beab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\androidstudio\GlassShiDai1\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20672631818754557255886d3feb43e7fe75a66">
+        <dex dex="G:\androidstudio\GlassShiDai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0_c7fe666d6b04a7d0797d052de5b23dbc2cf9640b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\androidstudio\GlassShiDai1\app\libs\picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="G:\androidstudio\GlassShiDai1\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.4.0_c7411c871b43d745af3a09aacd3f13aac8e5f60a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\androidstudio\GlassShiDai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\libs\internal_impl-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="G:\androidstudio\GlassShiDai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.0_7a4a7c2d50375487e9e074becf9ae26fc533dd94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\androidstudio\GlassShiDai1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="G:\androidstudio\GlassShiDai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_157a1513deea67745206749435846369277a2afe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\androidstudio\GlassShiDai1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b07e02458ef64b717401cdb159f612e39e237f2b">
+        <dex dex="G:\androidstudio\GlassShiDai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_913b755baa3246a2ecd811005be15fd807bf1150\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="G:\androidstudio\GlassShiDai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.0_864df4e5c18d1d47544f6f600a2199d4c9ebef78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\androidstudio\GlassShiDai1\app\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="G:\androidstudio\GlassShiDai1\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http.legacy_e83260bbe819c8ba2ee24e0e21191b7856cf419b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\androidstudio\GlassShiDai1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="G:\androidstudio\GlassShiDai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_595a19afcd37d68da174a44a29226112ec8692dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\androidstudio\GlassShiDai1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="G:\androidstudio\GlassShiDai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_905fd9eeb18439e42e7fa593e1766cb5e0ddc880\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\androidstudio\GlassShiDai1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1865e02050cd885ae2da166b61bd7254ff46eacc">
+        <dex dex="G:\androidstudio\GlassShiDai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a328f23f0494a8eabc46035d3c054b4d2b7148c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0\constraint-layout-solver-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90493f2ea15ff3f57416368123e5d4d180e0c6fd">
+        <dex dex="G:\androidstudio\GlassShiDai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0_e735d8450cfe2ce69123ae17adad971db7bdfef6\classes.dex" />
+    </item>
+
+</items>

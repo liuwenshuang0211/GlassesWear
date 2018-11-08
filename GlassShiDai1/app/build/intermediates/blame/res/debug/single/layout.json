@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "G:\\androidstudio\\GlassShiDai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xiangqing.xml",
+        "source": "G:\\androidstudio\\GlassShiDai1\\app\\src\\main\\res\\layout\\xiangqing.xml"
+    },
+    {
+        "merged": "G:\\androidstudio\\GlassShiDai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\localglass.xml",
+        "source": "G:\\androidstudio\\GlassShiDai1\\app\\src\\main\\res\\layout\\localglass.xml"
+    },
+    {
+        "merged": "G:\\androidstudio\\GlassShiDai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "G:\\androidstudio\\GlassShiDai1\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "G:\\androidstudio\\GlassShiDai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tupian.xml",
+        "source": "G:\\androidstudio\\GlassShiDai1\\app\\src\\main\\res\\layout\\tupian.xml"
+    },
+    {
+        "merged": "G:\\androidstudio\\GlassShiDai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shidai.xml",
+        "source": "G:\\androidstudio\\GlassShiDai1\\app\\src\\main\\res\\layout\\shidai.xml"
+    },
+    {
+        "merged": "G:\\androidstudio\\GlassShiDai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fruit_item.xml",
+        "source": "G:\\androidstudio\\GlassShiDai1\\app\\src\\main\\res\\layout\\fruit_item.xml"
+    },
+    {
+        "merged": "G:\\androidstudio\\GlassShiDai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "G:\\androidstudio\\GlassShiDai1\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "G:\\androidstudio\\GlassShiDai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "G:\\androidstudio\\GlassShiDai1\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "G:\\androidstudio\\GlassShiDai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "G:\\androidstudio\\GlassShiDai1\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "G:\\androidstudio\\GlassShiDai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\androidstudio\\GlassShiDai1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\androidstudio\\GlassShiDai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\first_layout.xml",
+        "source": "G:\\androidstudio\\GlassShiDai1\\app\\src\\main\\res\\layout\\first_layout.xml"
+    }
+]

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/glassimage1"
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="19dp"
+        android:src="@drawable/bb1" />
+
+    <ImageView
+        android:id="@+id/glassimage2"
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="19dp"
+        android:src="@drawable/jj3" />
+
+    <SurfaceView
+        android:id="@+id/surfaceView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/glassimage2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" />
+
+    <ImageView
+        android:id="@+id/tupian4567"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+      android:layout_above="@+id/glassimage1"
+        android:layout_alignParentLeft="true"
+         />
+<Button
+        android:id="@+id/takephoto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+            android:layout_above="@+id/glassimage1"
+        android:layout_alignParentLeft="true"
+        android:text="拍照" />
+
+ 
+    <Button
+        android:id="@+id/yulanBT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+ android:layout_above="@+id/glassimage1"
+           android:layout_centerHorizontal="true"
+                 android:visibility="gone"
+        android:text="确定" />
+
+    <Button
+        android:id="@+id/xiangceBT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_above="@+id/glassimage1"
+        android:layout_alignParentRight="true"
+        android:text="相册" />
+
+    <ImageView
+        android:id="@+id/glassimage4"
+        android:layout_width="220dp"
+        android:layout_height="100dp"
+  android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="190dp"
+         />
+
+</RelativeLayout>

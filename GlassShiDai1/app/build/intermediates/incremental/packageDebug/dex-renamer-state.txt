@@ -1,0 +1,7 @@
+#Fri Mar 03 00:42:57 CST 2017
+base.0=G\:\\androidstudio\\GlassShiDai1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_913b755baa3246a2ecd811005be15fd807bf1150
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\androidstudio\\GlassShiDai1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a328f23f0494a8eabc46035d3c054b4d2b7148c8\\classes.dex
+base.1=G\:\\androidstudio\\GlassShiDai1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a328f23f0494a8eabc46035d3c054b4d2b7148c8
+file.0=G\:\\androidstudio\\GlassShiDai1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_913b755baa3246a2ecd811005be15fd807bf1150\\classes.dex

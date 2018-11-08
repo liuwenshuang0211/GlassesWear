@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.uilistviewtest"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 授予程序可以向SD卡中保存文件的权限 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 授予程序使用摄像头的权限 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        name="com.example.wangluomokuai.Data"
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="GlassShiDai"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.localmokuai.DaohangActivity"
+            android:label="GlassShiDai" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.localmokuai.GlassActivity"
+            android:label="GlassShiDai" >
+        </activity>
+        <activity
+            android:name="com.example.wangluomokuai.GlassActivity1"
+            android:label="GlassShiDai" >
+        </activity>
+        <activity
+            android:name="com.example.wangluomokuai.ShiDaiActivity"
+            android:label="GlassShiDai" >
+        </activity>
+        <activity
+            android:name="com.example.wangluomokuai.XiangQingActivity"
+            android:label="GlassShiDai" >
+        </activity>
+        <activity
+            android:name="com.example.wangluomokuai.SelectPicActivity"
+            android:label="GlassShiDai" >
+        </activity>
+        <activity
+            android:name="account.LoginActivity"
+            android:label="GlassShiDai" >
+        </activity>
+        <activity
+            android:name="account.RegisterActivity"
+            android:label="GlassShiDai" >
+        </activity>
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>
